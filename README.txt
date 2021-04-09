@@ -30,30 +30,30 @@ the practical.py file realize the second method to deal with problems in part1
 
 1).if you want to search user by id and get the number of moviesthat he/she has watched,
 you can use the following command(suppose the userId is 3):
-python practical.py function1 3
+python3 practical.py function1 3
 
 2). if you want to type a userId and get all movies watched by this user,
  you can use the following comand(suppose the userId is 3)
-python practical.py function2 3
+python3 practical.py function2 3
 
 3). if you want to search movie by id, and get the average rating, the number of users that have watched
  the movie, you can run the following command(suppose the movieId is 3)
-python practical.py function3 3
+python3 practical.py function3 3
 
 4) if you want to search genre, get all movies in that genre,you can run the following command(suppose the
 genre name is 'Comedy|Romance')
-python practical.py function4 'Comedy|Romance'
+python3 practical.py function4 'Comedy|Romance'
 
 5). if you want to Search movies by year(suppose the year is 2017), you can use the following command:
-python practical.py function5 2017
+python3 practical.py function5 2017
 
 6).if you want to list the top n movies with highest rating(suppose we want to get top 5 movies), you can use the
 following command:
-python practical.py function6 5
+python3 practical.py function6 5
 
 7). if you want to get the top n movies with the highest number of watches(suppose top 5), you can use the following
 command:
-python practical.py function7 5
+python3 practical.py function7 5
 
 
 2. the methods to realize functions in part2 are shown as followed
