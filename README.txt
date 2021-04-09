@@ -28,7 +28,7 @@ python3 solution2.py function_6 "30" "small"
 1.2 method2:
 the practical.py file realize the second method to deal with problems in part1
 there is on point that you should pay attention to, the input of function2 and function3 should be a list of ids,but this method only take one id into consideration insteat of 
-a list of ids. fortunately, the first method can successfully realize these two function2.
+a list of ids. fortunately, the first method can successfully realize these two functions.
 
 1).if you want to search user by id and get the number of moviesthat he/she has watched,
 you can use the following command(suppose the userId is 3):
